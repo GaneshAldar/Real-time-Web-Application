@@ -1,0 +1,66 @@
+{
+    "_id":{
+        "$oid":"602683e2eee2d74940a7964e"
+    },
+    "name":"Margherita",
+    "image":"pizza1.jpg",
+    "price":"250",
+    "size":"small"
+},
+{
+    "_id":{
+        "$oid":"6026850deee2d74940a79650"
+    },
+    "name":"Marinara",
+    "image":"pizza1.jpg",
+    "price":"300",
+    "size":"medium"
+},{
+    "_id":{
+        "$oid":"60268575eee2d74940a79651"
+    },
+    "name":"Cabonara",
+    "image":"pizza1.jpg",
+    "price":"200",
+    "size":"small"
+},{
+    "_id":{
+        "$oid":"602685d3eee2d74940a79652"
+    },
+    "name":"Americana",
+    "image":"pizza1.jpg",
+    "price":"500",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":"60268633eee2d74940a79653"
+    },
+    "name":"Chicken Mushroom",
+    "image":"pizza1.jpg",
+    "price":"399",
+    "size":"medium"
+},{
+    "_id":{
+        "$oid":"6026869ceee2d74940a79654"
+    },
+    "name":"Paneer Pizza",
+    "image":"pizza1.jpg",
+    "price":"499",
+    "size":"large"
+},{
+    "_id":{
+        "$oid":"6026875beee2d74940a79655"
+    },
+    "name":"Vegies Pizza",
+    "image":"pizza1.jpg",
+    "price":"200",
+    "size":"small"
+},{
+    "_id":{
+        "$oid":"602687dceee2d74940a79656"
+    },
+    "name":"Pepperoni",
+    "image":"pizza1.jpg",
+    "price":"350",
+    "size":"medium"
+},
